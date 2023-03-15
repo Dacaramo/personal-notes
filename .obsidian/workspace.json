@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b457fe6aa447b18e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Expo/EAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Expo/EAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Expo/EAS.md"
               }
             }
           }
@@ -159,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b457fe6aa447b18e",
+  "active": "f3f2d9aaed6b7cc9",
   "lastOpenFiles": [
+    "README.md",
     "assets/dearDiary.png",
     "assets/dearDiary.png.crdownload",
     "assets/dearDiary.webp",
     "assets/dearDiary.webp.crdownload",
     "assets",
     "Expo/EAS.md",
-    "README.md",
     "Next.js/Data Fetching.md",
     "Expo/Expo framework.md",
     "Git/The basics.md",
