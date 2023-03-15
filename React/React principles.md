@@ -1,0 +1,1 @@
+1. Treat each React Component as a pure function. React Components should never modify the props they receive.
