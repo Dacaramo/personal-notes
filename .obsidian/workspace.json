@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34721c05f155d2e8",
+        "id": "eca036915d5c4fb2",
         "type": "tabs",
         "children": [
           {
-            "id": "f3f2d9aaed6b7cc9",
+            "id": "123856fd52630b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expo/EAS.md",
+                "file": "React/React.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expo/EAS.md",
+                "file": "React/React.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expo/EAS.md",
+                "file": "React/React.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expo/EAS.md"
+                "file": "React/React.js.md"
               }
             }
           }
@@ -146,44 +146,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3f2d9aaed6b7cc9",
+  "active": "123856fd52630b5e",
   "lastOpenFiles": [
-    "README.md",
+    "TypeScript/tsconfig.json.md",
+    "React/React.js.md",
+    "TypeScript",
+    "React/React Router.md",
+    "React/React principles.md",
+    "React/React Navigation.md",
+    "React/React Native.md",
+    "React/React hooks.md",
+    "React/React App Deployment.md",
+    "React/Formik and Yup.md",
+    "React/FlatLists and Pagination.md",
+    "GitHub Actions/Deploy Web App to GitHub Pages.md",
+    "GitHub Actions",
+    "React/Atomic Design.md",
+    "React/Yup.md",
+    "Next.js/Routing.md",
+    "Next.js/Rendering.md",
+    "Next.js/Data Fetching.md",
+    "().md",
+    "Expo/Expo framework.md",
+    "Expo/EAS.md",
     "assets/dearDiary.png",
+    "README.md",
+    "AWS/Amplify.md",
+    "OAuth/OAuth.md",
     "assets/dearDiary.png.crdownload",
     "assets/dearDiary.webp",
     "assets/dearDiary.webp.crdownload",
     "assets",
-    "Expo/EAS.md",
-    "Next.js/Data Fetching.md",
-    "Expo/Expo framework.md",
     "Git/The basics.md",
     "Git/Commands.md",
-    "Next.js/Rendering.md",
     "Next.js/assets/fileStructureForErrorExample.webp",
     "Next.js/assets/deduplicatedFetchRequestsForExample.webp",
-    "React/React.md",
-    "React/React principles.md",
-    "OAuth/OAuth.md",
     "OAuth/assets/useCase2.png",
     "OAuth/assets/useCase1.png",
     "Pasted image 20230314135342.png",
-    "AWS/Amplify.md",
     "OAuth/assets",
     "OAuth",
     "AWS/DynamoDB.md",
     "React",
-    "Next.js/Routing.md",
     "Next.js/assets/deduplicatedFetchRequestsForExample.webp.crdownload",
     "Next.js/assets/fileStructureForLoadingExample.webp",
     "Next.js/assets/fileStructureForErrorExample.webp.crdownload",
-    "Next.js/Assets/fileStructureForLoadingExample.webp.crdownload",
-    "AWS/assets/dynamoDbCheatSheet.pdf",
     "assets/dynamoDbCheatSheet.md",
-    "the files with special meaing section.md",
-    "AWS/assets/tableExample.png",
-    "images/tableExample.md",
-    "[[EAS.md",
-    "().md"
+    "AWS/assets/tableExample.png"
   ]
 }
