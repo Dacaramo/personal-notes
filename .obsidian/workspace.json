@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React.js.md",
+                "file": "TypeScript/TypeScript cheat sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React.js.md",
+                "file": "TypeScript/TypeScript cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React.js.md",
+                "file": "TypeScript/TypeScript cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React.js.md"
+                "file": "TypeScript/TypeScript cheat sheet.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "123856fd52630b5e",
   "lastOpenFiles": [
-    "TypeScript/tsconfig.json.md",
+    "Untitled.md",
+    "TypeScript/TypeScript cheat sheet.md",
     "React/React.js.md",
+    "TypeScript",
+    "TypeScript/tsconfig.json.md",
     "TypeScript",
     "React/React Router.md",
     "React/React principles.md",
@@ -186,12 +189,9 @@
     "Pasted image 20230314135342.png",
     "OAuth/assets",
     "OAuth",
-    "AWS/DynamoDB.md",
     "React",
     "Next.js/assets/deduplicatedFetchRequestsForExample.webp.crdownload",
     "Next.js/assets/fileStructureForLoadingExample.webp",
-    "Next.js/assets/fileStructureForErrorExample.webp.crdownload",
-    "assets/dynamoDbCheatSheet.md",
     "AWS/assets/tableExample.png"
   ]
 }
